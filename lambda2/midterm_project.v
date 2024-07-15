@@ -1,4 +1,4 @@
-(* Midterm Project for Logic Programming, Parnian Naderi, 610301075 *)
+(* Midterm Project for Logic Programming *)
 
 Import Nat.
 
